@@ -16,7 +16,6 @@ use App\Http\Controllers\ActionController;
 |
 */
 
-
 Route::get('/', [NavController::class, 'home']);
 
 Route::get('comics', [NavController::class, 'comics']);
