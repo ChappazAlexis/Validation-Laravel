@@ -1,0 +1,20 @@
+.nav-item {
+    color: white;
+}
+
+.nav-link :hover {
+    color: rgb(238, 238, 238);
+}
+
+main{
+    height: 100vh;
+}
+
+body{
+    background-image: url('https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/loisirs/livres/news/ces-livres-qui-font-peur-pour-ne-pas-dormir-de-la-nuit/91133509-1-fre-FR/13-livres-qui-font-peur-pour-ne-pas-dormir-de-la-nuit.jpg');
+    color: white;
+    text-shadow: -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
